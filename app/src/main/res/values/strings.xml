@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GOMATO</string>
+    <string name="hi_user">HI,USER</string>
+    <string name="let_s_grab_your_food">Let\'s grab your food</string>
+    <string name="search_for_food">Search For Food</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+</resources>
